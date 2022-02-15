@@ -58,7 +58,7 @@ global.author = 'LoppYuu<3' // ganti aja
 
 //yyy
 bc = 'Shiro' //Shiro-Botz Broadcast
-footer = '\n©shiro_craziiphat'
+footer = '\n©senp4i shiro'
 namabot = 'Shiro Botz'
 namalu = 'shiro'
 
@@ -73,7 +73,7 @@ global.eror = '_*Server Error*_'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
 
 // Ubah saja SC dari AlyaaXzy
-global.image = 'https://telegra.ph/file/338349c86c4fcd540968b.png'//thumbnail
+global.image = 'https://i.pinimg.com/originals/b3/17/cf/b317cf5a78221dc8fe4df9fbe2d4bc51.jpg'
 
 // tingkat kesulitan, semakin tinggi semakin susah
 global.multiplier = 36 // The higher, The harder levelup
